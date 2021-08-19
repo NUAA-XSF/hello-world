@@ -1,2 +1,3 @@
 # hello-world
-this is the test repository
+Hi Humans!
+Hubot here, I like Python.
